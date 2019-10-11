@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOTLabo3", "IOTLabo3.csproj", "{3BF0C220-9252-437E-85CB-7B593ED8507B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTLabo3", "IOTLabo3.csproj", "{3BF0C220-9252-437E-85CB-7B593ED8507B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
